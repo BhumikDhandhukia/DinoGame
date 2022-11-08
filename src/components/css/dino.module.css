@@ -1,0 +1,7 @@
+.dino{
+    --bottom:0;
+    position: absolute;
+    left: 1%;
+    height: 30%;
+    bottom: calc(var(--bottom)* 1%);
+}

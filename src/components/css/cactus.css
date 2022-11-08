@@ -1,0 +1,9 @@
+.cactus{
+    
+    position:absolute;
+    left:calc(var(--left)*1%);
+    height:30%;
+    left:50;
+    bottom: 0;
+
+}
